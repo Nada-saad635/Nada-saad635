@@ -7,8 +7,8 @@ Welcome to my GitHub corner, where ambition meets innovation. I’m a **problem-
 ## 🌟 Tidbits
 
 - 🎓 *Background*: CE student.
-- 💡 *Passions*:
-  - Exploring *AI and data science*.
+-💡*Passions*:
+ - Exploring *AI and data science*.
   - Preparing for the *Imagine Cup*
   - Training for *competitive programming*.
 - 🧠 *Current Learning Focus*:
