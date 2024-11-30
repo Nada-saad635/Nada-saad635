@@ -1,10 +1,3 @@
-<<<<<<< Updated upstream
-- 👋 Hi, I’m [@nadasaad](https://www.linkedin.com/in/nada-saad365/)
-- 👀 I’m interested in **AI** 
-- 🤝 I'm open to collaborating on compitive programming
-
-
-=======
 # Hi, I'm Nada Saad
 
 Welcome to my GitHub corner, where ambition meets innovation. I’m a **problem-solver and lifelong learner** dedicated to creating meaningful tech solutions and enhancing my skills.
@@ -33,4 +26,3 @@ Feel free to reach out if:
 - You're passionate about *AI*.
 - You’re participating in *competitive programming* or preparing for competitions like *ICPC* and *Imagine Cup*.
 - You want to collaborate or discuss innovative tech solutions and projects.
->>>>>>> Stashed changes
