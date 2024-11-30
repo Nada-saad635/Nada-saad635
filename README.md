@@ -7,8 +7,8 @@ and enhancing my skills.
 
 ## 🌟 Tidbits
 
-- 🎓 *Background*: Currently pursuing a degree in **Computer Engineering**.
-- 💡 *Passions*:
+- 🎓 *Background*: CE student.
+- 💡*Passions*:
   - Exploring *AI and data science* to build intelligent applications that make 
     a real impact.
   - Preparing for the *Imagine Cup* by developing projects that harness the 
