@@ -21,4 +21,28 @@ tech solutions and enhancing my skills.
     skills and foster teamwork.
 
 - 🧠 *Current Learning Focus*:  
-  - *MIT Emerging Talent Program* in Co
+  - *MIT Emerging Talent Program* in Computer and Data Science to deepen  
+    my technical expertise.
+
+- 💪 *Aspirations*:  
+  To contribute to the tech community, build impactful projects, and work on  
+  innovative solutions that can drive change.
+
+- 🌱 I’m currently learning **Ruby on Rails**, **Python**, and **DSA**.
+
+- ⚡ *Fun fact*:  
+  I’m full of surprises with countless hobbies—one moment I’m coding, and the  
+  next I’m exploring something totally unexpected and out of the ordinary! 🎨🚀💻🌀
+
+---
+
+## 💬 [Let’s Connect](https://www.linkedin.com/in/nada-saad365/)
+
+Feel free to reach out if:  
+
+- You're passionate about *AI*.  
+- You’re participating in *competitive programming* or preparing for  
+  competitions like *ICPC* and *Imagine Cup*.  
+- You want to collaborate or discuss innovative tech solutions and projects.  
+
+---
